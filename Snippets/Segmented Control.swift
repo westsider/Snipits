@@ -14,6 +14,9 @@ class SettingsViewController: UIViewController {
     
     let defaults = UserDefaults.standard
     
+    // dont convert the integer when saving to user defaults
+    // get the segmented contol as an int
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         let lastSegment = defaults.integer(forKey: "segment")
