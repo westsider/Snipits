@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		0D1DF572210F9E030011A273 /* Firebase Basic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D1DF571210F9E030011A273 /* Firebase Basic.swift */; };
 		0D29C3C421139BE00010AD95 /* User Defaults.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D29C3C321139BE00010AD95 /* User Defaults.swift */; };
+		0D2F5C4121249B6600DA3A2E /* Views.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D2F5C4021249B6600DA3A2E /* Views.swift */; };
 		0DA6285B210F7F0E00277628 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DA6285A210F7F0E00277628 /* AppDelegate.swift */; };
 		0DA6285D210F7F0E00277628 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DA6285C210F7F0E00277628 /* ViewController.swift */; };
 		0DA62860210F7F0E00277628 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0DA6285E210F7F0E00277628 /* Main.storyboard */; };
@@ -27,6 +28,7 @@
 /* Begin PBXFileReference section */
 		0D1DF571210F9E030011A273 /* Firebase Basic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Firebase Basic.swift"; sourceTree = "<group>"; };
 		0D29C3C321139BE00010AD95 /* User Defaults.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "User Defaults.swift"; sourceTree = "<group>"; };
+		0D2F5C4021249B6600DA3A2E /* Views.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Views.swift; sourceTree = "<group>"; };
 		0DA62857210F7F0E00277628 /* Snippets.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Snippets.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0DA6285A210F7F0E00277628 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0DA6285C210F7F0E00277628 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -82,6 +84,7 @@
 				0DA6285E210F7F0E00277628 /* Main.storyboard */,
 				0DA6285C210F7F0E00277628 /* ViewController.swift */,
 				0DA62872210F942000277628 /* Valid Email.swift */,
+				0D2F5C4021249B6600DA3A2E /* Views.swift */,
 				0DA62874210F971700277628 /* Realm Basic.swift */,
 				0D1DF571210F9E030011A273 /* Firebase Basic.swift */,
 				0D29C3C321139BE00010AD95 /* User Defaults.swift */,
@@ -237,6 +240,7 @@
 				0DEB04222113CB94000EC94D /* Segmented Control.swift in Sources */,
 				0DA6286D210F803B00277628 /* Network Call.swift in Sources */,
 				0DA62871210F856D00277628 /* Parse JSON.swift in Sources */,
+				0D2F5C4121249B6600DA3A2E /* Views.swift in Sources */,
 				0DA6285B210F7F0E00277628 /* AppDelegate.swift in Sources */,
 				0DEB04422113D01D000EC94D /* Slider Control.swift in Sources */,
 				0D29C3C421139BE00010AD95 /* User Defaults.swift in Sources */,
