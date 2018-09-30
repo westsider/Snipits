@@ -5,7 +5,7 @@
 //  Created by Warren Hansen on 8/22/18.
 //  Copyright © 2018 Warren Hansen. All rights reserved.
 //
-
+//  Here is how to implement the class
 /*
          @IBOutlet weak var circleView: UIView!
  
