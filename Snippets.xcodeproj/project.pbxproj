@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0D00976C218BEB6100F4C86D /* Round Numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D00976B218BEB6100F4C86D /* Round Numbers.swift */; };
 		0D1DF572210F9E030011A273 /* Firebase Basic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D1DF571210F9E030011A273 /* Firebase Basic.swift */; };
 		0D29C3C421139BE00010AD95 /* User Defaults.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D29C3C321139BE00010AD95 /* User Defaults.swift */; };
 		0D2F5C4121249B6600DA3A2E /* Views.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D2F5C4021249B6600DA3A2E /* Views.swift */; };
@@ -29,6 +30,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0D00976B218BEB6100F4C86D /* Round Numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Round Numbers.swift"; sourceTree = "<group>"; };
 		0D1DF571210F9E030011A273 /* Firebase Basic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Firebase Basic.swift"; sourceTree = "<group>"; };
 		0D29C3C321139BE00010AD95 /* User Defaults.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "User Defaults.swift"; sourceTree = "<group>"; };
 		0D2F5C4021249B6600DA3A2E /* Views.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Views.swift; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 				0DEB04212113CB94000EC94D /* Segmented Control.swift */,
 				0DA6286C210F803B00277628 /* Network Call.swift */,
 				0DA62870210F856D00277628 /* Parse JSON.swift */,
+				0D00976B218BEB6100F4C86D /* Round Numbers.swift */,
 				0DA6286E210F809A00277628 /* Date Formatter.swift */,
 				0DA62861210F7F0F00277628 /* Assets.xcassets */,
 				0DA6285A210F7F0E00277628 /* AppDelegate.swift */,
@@ -243,6 +246,7 @@
 			files = (
 				0DA6285D210F7F0E00277628 /* ViewController.swift in Sources */,
 				0DA6286F210F809A00277628 /* Date Formatter.swift in Sources */,
+				0D00976C218BEB6100F4C86D /* Round Numbers.swift in Sources */,
 				0D6BE736215B424E005785D9 /* Function Declaration.swift in Sources */,
 				0D1DF572210F9E030011A273 /* Firebase Basic.swift in Sources */,
 				0D3FDDF0212DF3F100EF1E78 /* Animate Circle.swift in Sources */,
