@@ -26,6 +26,7 @@
 		0DA62875210F971700277628 /* Realm Basic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DA62874210F971700277628 /* Realm Basic.swift */; };
 		0DEB04222113CB94000EC94D /* Segmented Control.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DEB04212113CB94000EC94D /* Segmented Control.swift */; };
 		0DEB04422113D01D000EC94D /* Slider Control.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DEB04412113D01D000EC94D /* Slider Control.swift */; };
+		985AA3C8220CF9DF0088C5A8 /* Alert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 985AA3C7220CF9DF0088C5A8 /* Alert.swift */; };
 		F3F120F9414F05271ED9D61F /* Pods_Snippets.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E4072E708F3B224EA0A9874B /* Pods_Snippets.framework */; };
 /* End PBXBuildFile section */
 
@@ -53,6 +54,7 @@
 		0DEB04212113CB94000EC94D /* Segmented Control.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Segmented Control.swift"; sourceTree = "<group>"; };
 		0DEB04412113D01D000EC94D /* Slider Control.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Slider Control.swift"; sourceTree = "<group>"; };
 		624A2D52E3E27015518F546A /* Pods-Snippets.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Snippets.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Snippets/Pods-Snippets.debug.xcconfig"; sourceTree = "<group>"; };
+		985AA3C7220CF9DF0088C5A8 /* Alert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alert.swift; sourceTree = "<group>"; };
 		E4072E708F3B224EA0A9874B /* Pods_Snippets.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Snippets.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -103,6 +105,7 @@
 				0DEB04212113CB94000EC94D /* Segmented Control.swift */,
 				0DA6286C210F803B00277628 /* Network Call.swift */,
 				0DA62870210F856D00277628 /* Parse JSON.swift */,
+				985AA3C7220CF9DF0088C5A8 /* Alert.swift */,
 				0D00976B218BEB6100F4C86D /* Round Numbers.swift */,
 				0DA6286E210F809A00277628 /* Date Formatter.swift */,
 				0DA62861210F7F0F00277628 /* Assets.xcassets */,
@@ -247,6 +250,7 @@
 				0DA6285D210F7F0E00277628 /* ViewController.swift in Sources */,
 				0DA6286F210F809A00277628 /* Date Formatter.swift in Sources */,
 				0D00976C218BEB6100F4C86D /* Round Numbers.swift in Sources */,
+				985AA3C8220CF9DF0088C5A8 /* Alert.swift in Sources */,
 				0D6BE736215B424E005785D9 /* Function Declaration.swift in Sources */,
 				0D1DF572210F9E030011A273 /* Firebase Basic.swift in Sources */,
 				0D3FDDF0212DF3F100EF1E78 /* Animate Circle.swift in Sources */,
