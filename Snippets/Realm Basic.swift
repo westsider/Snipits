@@ -42,5 +42,15 @@ class Places: Object {
             realm.add(places)
         }
     }
+    
+    /* array from property, sum array
+    static func sumAM() -> Double {
+        let am = Trades.getAllTrades(debug: false).filter("amTrade == true")
+        let amGain:[Double] = am.map { (Trades) -> Double in
+            Trades.gain
+        }
+        return amGain.reduce(0, +)
+    }
+     */
 
 }
