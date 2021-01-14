@@ -19,7 +19,7 @@ class NetworkCall {
     class func getPricesFor(ticker:String, debug:Bool, callback: @escaping ([String: Any]) -> ()) {
         
         let alphaApiKey = "your-API-Key"
-        
+        //let url2 = URL(string: "https://learnappmaking.com/ex/users.json")!
         guard let url = URL(string: "https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=\(ticker)&apikey=\(alphaApiKey)") else { return }
         let request = URLRequest(url: url)
         let task = URLSession.shared.dataTask(with: request) { data, response, error in

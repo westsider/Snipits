@@ -11,17 +11,15 @@ import UIKit
 
 class MyDefaults {
     
-    
-    func setDefauts() {
+    class func setDefauts() {
 
         let defaults = UserDefaults.standard
         defaults.set("Anand", forKey: "name")
-        defaults.set(25, forKey: "Age")
+        defaults.set(25, forKey: "age")
         defaults.set(true, forKey: "UseTouchID")
         defaults.set(CGFloat.pi, forKey: "Pi")
         defaults.set("Paul Hudson", forKey: "Name")
         defaults.set(Date(), forKey: "LastRun")
-        
         
         let name = defaults.string(forKey: "name") ?? ""
         let age = defaults.integer(forKey: "Age")
